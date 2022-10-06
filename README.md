@@ -2,24 +2,23 @@
 
 Submitted by: **Mohammed Arham**
 
-**MovieBrowser** is a movie browsing app that allows users to browse ... [TODO] 
-
-Time spent: **X** hours spent in total
+**MovieBrowser** is a movie browsing app that allows users to browse trending actors and actresses and movies. It also allows to see the rating, detailed description, popularity and age rating of movies.
+Time spent: **15** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
-- [ ] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [ ] **Use Glide to load and display at least one image per entry**
-- [ ] **Click on an entry to view specific details about that entry using Intents**
+- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `trending`
+- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [X] **Use Glide to load and display at least one image per entry**
+- [X] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
-- [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
-- [ ] **Add rounded corners to the images using the Glide transformations**
+- [X] **Add another API call and RecyclerView that lets the user interact with different data.** 
+- [X] **Add rounded corners to the images using the Glide transformations**
 - [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
 
@@ -28,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/HeartArmy/MovieBrowser/blob/main/appWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 
 ## License
