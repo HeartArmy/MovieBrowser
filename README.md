@@ -3,6 +3,7 @@
 Submitted by: **Mohammed Arham**
 
 **MovieBrowser** is a movie browsing app that allows users to browse trending actors and actresses and movies. It also allows to see the rating, detailed description, popularity and age rating of movies.
+
 Time spent: **15** hours spent in total
 
 ## Required Features
