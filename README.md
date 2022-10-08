@@ -28,7 +28,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/HeartArmy/MovieBrowser/blob/main/appWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src='https://github.com/HeartArmy/MovieBrowser/blob/main/Walkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 
 ## License
